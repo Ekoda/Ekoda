@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pontus Blomqvist, @Ekoda
+👋 Hi, I’m Pontus Blomqvist, @Ekoda
 
 A curious person with wide-ranging interest, existing at the intersection of society and technology!
 
