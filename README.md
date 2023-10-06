@@ -1,3 +1,3 @@
 - :computer: Software Engineer <a href="https://www.turnr.se/">@turnr</a>
-- :robot: Exploring machine learning and building production scale ML systems and architecture.
+- :robot: Exploring machine learning, building production scale ML systems and architecture.
 - :books: MSc. Sociology of Law, Lund University
