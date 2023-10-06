@@ -1,2 +1,3 @@
-- :computer: Fullstack Software Developer <a href="https://www.turnr.se/">@turnr</a>
+- :computer: Software Engineer <a href="https://www.turnr.se/">@turnr</a>
+- :robot: Exploring machine learning and building production scale ML systems and architecture.
 - :books: MSc. Sociology of Law, Lund University
