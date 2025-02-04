@@ -1,2 +1,2 @@
 - :computer: Software Engineer <a href="https://www.turnr.se/">@turnr</a>
-- :books: MSc. Sociology of Law, Lund University
+- :books: MSc. Lund University
